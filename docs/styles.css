@@ -8,6 +8,13 @@ body {
 /* Container principal da pagina */
 .container {
   max-width: 400px; /* Largura máxima do container */
+
+}
+
+
+/* area do titulo principal */
+.container-titulo {
+  margin: 1rem;
 }
 
 .titulo-principal {
@@ -15,6 +22,7 @@ body {
   margin-bottom: 1.5rem; /* Espaçamento abaixo do logo */
   color: #ffffffbe;
   font-weight: bold;
+  margin: 0;
 }
 
 
