@@ -8,6 +8,13 @@ body {
 /* Container principal da pagina */
 .container {
   max-width: 400px; /* Largura máxima do container */
+
+}
+
+
+/* area do titulo principal */
+.container-titulo {
+  margin: 1rem;
 }
 
 .titulo-principal {
@@ -15,6 +22,7 @@ body {
   margin-bottom: 1.5rem; /* Espaçamento abaixo do logo */
   color: #ffffffbe;
   font-weight: bold;
+  margin: 0;
 }
 
 
@@ -34,15 +42,15 @@ body {
   color: #20fd54;
 }
 
-
 /* area do form login */
 .form-group {
-  margin-bottom: 1rem; /* Espaçamento entre elementos relacionados */
+  margin-bottom: .4rem; /* Espaçamento entre elementos relacionados */
 }
 
 .titulo-label {
   color: #bbb9b9;
   font-weight: bold;
+  margin-bottom: .4rem;
 }
 
 /* Container input de e-mail e senha */
@@ -62,7 +70,7 @@ body {
 .btn-login {
   height: 2.5rem; /* Altura do botão de login */
   width: 100%; /* Largura do botão de login */
-  margin-top: 1.5rem; /* Espaçamento acima do botão de login */
+  margin-top: .725rem; /* Espaçamento acima do botão de login */
   border-radius: .625rem;
   font-weight: 600;
   background-color: #28A745;
@@ -70,13 +78,16 @@ body {
 }
 
 .btn-login:hover {
-  background-color: #3f7e97;
+  background-color: #51a3c4;
   color: #ffffffbe;
   transition: .5s;
 }
 
+
+/* sessão rede sociais */
 .social-login {
-  margin-top: 1.5rem; /* Espaçamento acima da seção de login social */
+  margin-top: 1rem; /* Espaçamento acima da seção de login social */
+  margin-bottom: .4rem;
   text-align: center; /* Centralizar elementos sociais */
   color: #bbb9b9;
 }
