@@ -1,5 +1,5 @@
 body {
-  background-color: #5B349F; /* Cor de fundo */
+  background-color: #7C3AED; /* Cor de fundo */
   font-family: 'Roboto', sans-serif; /* Fonte principal */
   margin: 1.5rem; /* Margem externa */
 }
@@ -17,14 +17,20 @@ body {
   margin: 1rem;
 }
 
-.titulo-principal {
+.titulo-principal, .titulo-principal-2 {
   text-align: center; /* Centralizar texto do logo */
   margin-bottom: 1.5rem; /* Espaçamento abaixo do logo */
   color: #ffffffbe;
-  font-weight: bold;
+  font-weight: 600;
+  font-size: 5rem;
   margin: 0;
+  font-family: "inter";
 }
 
+.titulo-principal-2 {
+  font-weight: bold;
+  font-size: 6rem;
+}
 
 /* card da area de login */
 .card {
