@@ -64,6 +64,6 @@ Esta seção contém um resumo das principais pull requests realizadas durante o
 
 ### Como Acessar as Pull Requests
 
-Para visualizar todos os detalhes e discussões das pull requests, visite o [repositório do projeto no GitHub](link_para_o_repositorio) e navegue pela seção de pull requests.
+Para visualizar todos os detalhes e discussões das pull requests, visite o [repositório do projeto no GitHub](https://github.com/henferreirapro/projeto-fintech-master/pulls) e navegue pela seção de pull requests.
 
 ___
